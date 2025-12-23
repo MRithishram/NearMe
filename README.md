@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,7 +47,53 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-'''
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="red" text="yellow">
+    <img src="church.avif" height="500" width="500"
+    <p>The church you are looking for is likely Our Lady of Fatima Church, a well-known pilgrimage shrine in Valliyur
+    </p>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="red" text="yellow">
+    <img src="hotle.jpg" height="500" width="500"
+    <p>Hotel Sri Venkateswara Lodge is a 2-star hotel located in the heart of Valliyur, Tamil Nadu
+    </p>
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="red" text="yellow">
+    <img src="theatre.webp" height="500" width="500"
+    <p>Chitra Theatre, also known as Chithra Theatre Full A/C, is a prominent cinema hall located in Vallioor
+    </p>
+    
+</body>
+</html>
+
+```
+
 
 ## OUTPUT
 
